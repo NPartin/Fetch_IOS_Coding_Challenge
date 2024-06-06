@@ -1,9 +1,3 @@
-//
-//  MealDetailView.swift
-//  FetchIOSCodingChallenge
-//
-//  Created by Timothy Partin on 6/3/24.
-//
 import SwiftUI
 
 // View to display the details of a selected meal

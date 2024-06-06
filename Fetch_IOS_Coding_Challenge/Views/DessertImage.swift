@@ -1,9 +1,3 @@
-//
-//  DessertImage.swift
-//  FetchIOSCodingChallenge
-//
-//  Created by Timothy Partin on 6/4/24.
-//
 import SwiftUI
 
 struct DessertImage: View {

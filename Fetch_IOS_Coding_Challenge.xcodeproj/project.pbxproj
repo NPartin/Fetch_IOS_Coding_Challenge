@@ -15,7 +15,7 @@
 		88CAC30F2C12616600F70D46 /* DessertImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88CAC30E2C12616600F70D46 /* DessertImage.swift */; };
 		88CAC3112C12617400F70D46 /* ImageCache.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88CAC3102C12617400F70D46 /* ImageCache.swift */; };
 		88CAC3132C12619400F70D46 /* DessertApi.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88CAC3122C12619400F70D46 /* DessertApi.swift */; };
-		88CAC3152C1261B600F70D46 /* MealDetailAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88CAC3142C1261B600F70D46 /* MealDetailAPI.swift */; };
+		88CAC3152C1261B600F70D46 /* DessertDetailAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88CAC3142C1261B600F70D46 /* DessertDetailAPI.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,7 +28,7 @@
 		88CAC30E2C12616600F70D46 /* DessertImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DessertImage.swift; sourceTree = "<group>"; };
 		88CAC3102C12617400F70D46 /* ImageCache.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageCache.swift; sourceTree = "<group>"; };
 		88CAC3122C12619400F70D46 /* DessertApi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DessertApi.swift; sourceTree = "<group>"; };
-		88CAC3142C1261B600F70D46 /* MealDetailAPI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MealDetailAPI.swift; sourceTree = "<group>"; };
+		88CAC3142C1261B600F70D46 /* DessertDetailAPI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DessertDetailAPI.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,7 +93,7 @@
 			isa = PBXGroup;
 			children = (
 				88CAC3122C12619400F70D46 /* DessertApi.swift */,
-				88CAC3142C1261B600F70D46 /* MealDetailAPI.swift */,
+				88CAC3142C1261B600F70D46 /* DessertDetailAPI.swift */,
 			);
 			path = APIs;
 			sourceTree = "<group>";
@@ -170,7 +170,7 @@
 			files = (
 				88CAC3112C12617400F70D46 /* ImageCache.swift in Sources */,
 				88CAC30F2C12616600F70D46 /* DessertImage.swift in Sources */,
-				88CAC3152C1261B600F70D46 /* MealDetailAPI.swift in Sources */,
+				88CAC3152C1261B600F70D46 /* DessertDetailAPI.swift in Sources */,
 				88CAC3012C1260F900F70D46 /* DessertsView.swift in Sources */,
 				88CAC3132C12619400F70D46 /* DessertApi.swift in Sources */,
 				88CAC30D2C12615300F70D46 /* DessertDetailView.swift in Sources */,

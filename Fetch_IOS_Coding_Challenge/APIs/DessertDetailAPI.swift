@@ -1,9 +1,3 @@
-//
-//  MealDetailAPI.swift
-//  FetchIOSCodingChallenge
-//
-//  Created by Timothy Partin on 6/3/24.
-//
 import Foundation
 
 // Decodable structure representing the main response from the API
